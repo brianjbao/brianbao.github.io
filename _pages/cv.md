@@ -46,11 +46,15 @@ redirect_from:
 
 ## Community Service
 
-* Jan 2024-Present: **Student Mentor**, [Future is NOW (Non-violent Options Win) Nashville – Future Healers Network](https://www.vumc.org/trauma-and-scc/now)
-* Jan 2024-Present: **Health Educator**, [Dismas House of Nashville Residential Reentry Program](https://dismas.org/programs/re-entry-program/)
-* Aug 2022-Present: **Coordinator and Student Clinician**, [Shade Tree Free Clinic](https://www.shadetreeclinic.org/)
-* Jan 2021-July 2022: **Community Health Design and Social Innovation Intern**, Johns Hopkins Sibley Memorial Hospital
-* Dec 2019-Feb 2020: **Certified End-Of-Life Specialist**, Gilchrist Hospice Center
+* May 2025-Present: **Student Mentor**, [UVA Guide to Application Success](https://med.virginia.edu/mulholland/student-clubs/)
+* Mar 2025-Present: **Student Volunteer**, [Remote Area Medical](https://www.ramusa.org)
+* Aug 2024-Present: **Student Volunteer**, [Legal Aid Justice Center](https://www.justice4all.org)
+* Aug 2024-Present: **Pre-Med Mentor**, [Mulholland Pre-Med Mentoring Program](https://med.virginia.edu/mulholland/student-clubs/)
+* Jun 2020-May 2024: **Student Volunteer**, LewisGale Medical Center
+* Sep 2022-May 2024: **Pre-Med Mentor**, W&M Health Careers Club Pre-Medical Mentoring Program
+* Sept 2022-Dec2023: **Executive Board Member, Team Lead, Recruitment Director**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
+* Nov 2021-May 2022: **Hospice Volunteer**, ProMedica Hospice
+* Jun 2019-Aug 2019: **Student Volunteer**, Mount Sinai Health System
 
 ## Leadership
 
