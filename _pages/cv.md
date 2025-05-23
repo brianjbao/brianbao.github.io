@@ -17,61 +17,27 @@ redirect_from:
 
 * College of William and Mary, B.S. in Neuroscience and Minor in Computational & Applied Mathematics and Statistics, Aug 2020-Dec 2023
 * University of Virginia School of Medicine, M.D., Aug 2024-May 2028 (expected)
-
-## Medical Technology
-
-* Oct 2024-Present: **Consultant**
-  * [Merge Medical Device Studio](https://www.mergemed.com/)
-* Sep 2024-Present: **Student Researcher**
-  * Informatics Innovation, Vanderbilt University Medical Center
-  * Mentor: Daniel Fabbri, PhD
-* April 2023-Aug 2023: **Clinical Trial Coordinator**
-  * [GI Windows Surgical](https://www.giwindows.com/)
  
 ## Clinical Research
 
-* April 2023-Present: **[Student Researcher](https://www.vumc.org/vcrg/person/daniel-habib)**
-  * Section of Surgical Sciences, Vanderbilt University Medical Center
-  * Mentor: Aimal Khan, MD
-* Nov 2022-Present: **Student Researcher**
-  * Surgical Analytics Lab and Surgical Ethics Program, Vanderbilt University Medical Center
-  * Mentor: Alexander Langerman, MD, SM
-* Jan 2022-July 2022: **Research Program Coordinator**
-  * Department of Pediatrics, Johns Hopkins Medicine
-  * Mentor: Sara Johnson, PhD, MPH
-* Sep 2020-Dec 2021: **Student Researcher**
-  * [Neuro-Oncology Surgical Outcomes Lab](https://www.jhuneurolab.com/), Johns Hopkins Medicine
-  * Mentor: Debraj Mukherjee, MD, MPH
-* Oct 2018-Jan 2020: **Research Assistant**
-  * Wilmer Eye Institute, Johns Hopkins Medicine
-  * Mentor: Bonnielin Swenor, PhD, MPH
+* Sep 2023-Present: **Student Researcher**
+  * Division of Cardiothoracic Surgery, Virginia Commonwealth University School of Medicine
+  * Mentor: Zubair Hashmi, MD
+* March 2025: **Student Researcher**
+  * Department of Otolaryngology-Head and Neck Surgery, University of Virginia School of Medicine
+  * Mentor: Ariana Greenwell, MD
 
-## Cancer Wet Lab
+## Wet Lab
 
-* Jan 2019-Dec 2021: **Student Researcher**
-  * [Institute for NanoBioTechnology](https://inbt.jhu.edu/), Johns Hopkins University
-  * Mentor: Konstantinos Konstantopoulos, PhD
-* June 2020-Aug 2020: **Research Assistant**
-  * [Fralin Biomedical Research Institute](https://fbri.vtc.vt.edu/research/labs/lamouille.html), Virginia Tech Carilion
-  * Mentor: Samy Lamouille, PhD
-
-## Addiction Research
-
-* Jan 2022-July 2022 & Summer 2021: **Postbaccalaureate Fellow and Summer Intern**
-  * [Technology and Translational Research Unit](https://bcurtislab.com/team/), National Institute on Drug Abuse
-  * Mentor: Brenda Curtis, PhD, MSPH
-* June 2020-July 2022: **Student Investigator**
-  * Johns Hopkins University
-  * Mentor: Andrew Cherlin, PhD
-
-## COVID-19 Research
-
-* Mar 2021-May 2022: **Research Assistant**
-  * [Disability Health Research Center](https://disabilityhealth.jhu.edu/), Johns Hopkins University
-  * Mentor: Bonnielin Swenor, PhD, MPH
-* June 2020-Jan 2021: **Student Researcher**
-  * CoronaNet
-  * Mentor: Robert Kubinec, PhD
+* May 2023-Aug 2023: **Student Researcher**
+  * [VCU Pauley Heart Center](https://www.vcuhealth.org/pauley-heart-center/), Virginia Commonwealth University
+  * Mentors: Fadi Salloum, PhD ; Gabriele Mauro, PhD
+* Dec 2020-Dec 2023: **Research Assistant**
+  * Department of Biology, College of William and Mary
+  * Mentor: Margaret Saha, PhD
+* Summer 2018 & Summer 2019: **Research Assistant**
+  * Novozymes Biologicals (now Novonesis)
+  * Mentor: Uri Levine, PhD
 
 ## Community Service
 
