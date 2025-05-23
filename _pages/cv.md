@@ -75,13 +75,16 @@ redirect_from:
 * 2019: Rensselaer Medal Scholarship ($160,000 college scholarship - unclaimed)
   * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute
 
-## Publications
+## Publications (will be updated soon)
  
   
-## Posters
+## Posters (will be updated soon)
 
 
-## Abstracts
+## Abstracts (will be updated soon)
+
+
+## Projects In-Progress (will be updated soon)
 
 
 
