@@ -7,10 +7,7 @@ main:
     url: /talks/   
     
   - title: "Talk Map"
-    url: /talkmap.html
-
-  - title: "Popular Works"
-    url: /popularworks/    
+    url: /talkmap.html 
     
   - title: "CV"
     url: /cv/
