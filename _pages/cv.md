@@ -52,7 +52,7 @@ redirect_from:
 * Aug 2024-Present: **Pre-Med Mentor**, [Mulholland Pre-Med Mentoring Program](https://med.virginia.edu/mulholland/student-clubs/)
 * Jun 2020-May 2024: **Student Volunteer**, LewisGale Medical Center
 * Sep 2022-May 2024: **Pre-Med Mentor**, W&M Health Careers Club Pre-Medical Mentoring Program
-* Sept 2022-Dec2023: **Math/Science Tutor**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
+* Sep 2022-Dec 2023: **Math/Science Tutor**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
 * Nov 2021-May 2022: **Hospice Volunteer**, ProMedica Hospice
 * Jun 2019-Aug 2019: **Student Volunteer**, Mount Sinai Health System
 
