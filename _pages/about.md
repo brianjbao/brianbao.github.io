@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first medical student at the University of Virginia School of Medicine. I lead research on improving access and outcomes in cardiothoracic transplantation, but I’m currently transitioning away to explore research opportunities in orthopedic surgery. I have experience in chart review and retrospective database research using [NSQIP](https://www.facs.org/quality-programs/data-and-registries/acs-nsqip/), [CDC WONDER](https://wonder.cdc.gov/wonder/help/main.html#WhatisWONDER), [NEISS](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data), and [UNOS OPTN STAR](https://optn.transplant.hrsa.gov/data/). Outside of research, I am involved in supporting medico-legal justice at the [Legal Aid Justice Center](https://www.justice4all.org), volunteering for Remote Area Medical, and mentoring pre-medical students. 
+I am a medical student at The University of Virginia School of Medicine. I lead research on head and neck cancer free-flap reconstruction, surgical outcomes following neoadjuvant immunotherapy, and patient-centered surgical consent forms. Additionally, I study surgical and patient-facing technology, work as a consultant for [Merge Medical Device Studio](https://www.mergemed.com/), and develop AI-driven tools for medical record abstraction in clinical trials. I also volunteer as a student clinician/coordinator at [Shade Tree Free Clinic](https://www.shadetreeclinic.org/), health educator for previously incarcerated individuals, and [mentor](https://www.newschannel5.com/news/giving-them-another-path-inspiring-at-risk-youth-to-choose-a-violence-free-future) for children affected by gun violence.
 
-I graduated from the College of William & Mary in December 2023 with a B.S. in Neuroscience and a minor in Computational and Applied Mathematics. As an undergraduate student, I taught Organic Chemistry Lab for four semesters as a teaching assistant and was selected for a 10-week research fellowship at the [Pauley Heart Center](https://www.vcuhealth.org/pauley-heart-center/). I also led student research teams investigating neural development and helped lead over 100 volunteers for [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/), an outreach program offering tutoring and mentorship for underserved middle schoolers.
+I graduated from Johns Hopkins University in December 2021 with a B.A. in Biophysics and Minor in Bioethics. At Johns Hopkins Hospital, I worked at the Wilmer Eye Institute's mobile free clinic and the [Disability Health Research Center](https://disabilityhealth.jhu.edu/). As an undergraduate student, I taught an Organic Chemistry Lab section as a teaching assistant and conducted cancer wet lab research for three years at the [Institute for NanoBioTechnology](https://inbt.jhu.edu/). Additionally, I led my IRB-approved study called *Peer Influence on Vaping in High Schools* as well as two COVID-19 research projects on health website accessibility and restrictive policies in fragile Middle Eastern countries. I also volunteered in a hospice center to help provide palliative care to terminally ill children.
 
 <html>
 <head>
@@ -78,11 +78,11 @@ I graduated from the College of William & Mary in December 2023 with a B.S. in N
     <div class="column2">
       <h2>Interests</h2>
       <ul>
-        <li>Orthopedic Surgery</li>
-        <li>Surgical Outcomes</li>
+        <li>Biomedical Ethics</li>
+        <li>Head and Neck Cancer</li>
         <li>Health Equity</li>
-        <li>Education and Outreach</li>
-        <li>Mentoring</li>
+        <li>Medical Technology</li>
+        <li>Surgical Outcomes</li>
       </ul>
     </div>
   </div>
@@ -92,9 +92,9 @@ I graduated from the College of William & Mary in December 2023 with a B.S. in N
 ![University of Virginia School of Medicine Class of 2028 photo in white coats](../images/BrianBao.ClassPhoto.jpg){: style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;"}
 
 <br>
-Before starting medical school, I spent six months as a [Virginia All-In Tutor](https://www.doe.virginia.gov/teaching-learning-assessment/all-in-tutoring) at Roanoke City Public Schools teaching math and science for 5th-grade students at risk of failing their standardized exams.
+During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19 information, early determinants of childhood illness, and the role of primary care in advancing health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://bcurtislab.com/), where I helped leverage natural language processing (NLP) and machine learning to identify stigmatizing social media discussions about substance use. 
 
-When I’m not engaged in research or schoolwork, I enjoy cooking, playing spikeball and frisbee golf, and listening to audiobooks.
+Throughout my medical journey, I aspire to continue becoming a better person through each of my patients while spearheading surgical outcomes research, medical technology innovation, and advocacy for equitable healthcare and patients’ rights.
 
 <html>
 <head>
@@ -127,18 +127,18 @@ When I’m not engaged in research or schoolwork, I enjoy cooking, playing spike
     <div class="column">
       <!-- First image -->
       <img 
-        src="../images/WM.CrimDellBridge.jpg" 
-        alt="Crim Dell Bridge at the College of William and Mary, reflected in the surrounding wooded pond"
+        src="../images/GilmanFlowers.png" 
+        alt="Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day"
         style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;">
-      <p class="caption">Crim Dell Bridge, College of William and Mary</p>
+      <p class="caption">Gilman Hall, Johns Hopkins University</p>
     </div>
     <div class="column">
       <!-- Second image -->
       <img 
-        src="../images/UVA.Rotunda.jpg" 
-        alt="The Rotunda at the University of Virginia, viewed from the Lawn on an overcast day"
+        src="../images/NashvilleSkyline.png" 
+        alt="Skyline of Nashville Tennessee"
         style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;">
-      <p class="caption">The Rotunda, University of Virginia</p>
+      <p class="caption">Nashville, TN</p>
     </div>
   </div>
 </body>
