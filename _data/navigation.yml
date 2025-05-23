@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
     
-  - title: "Conference Activity"
-    url: /talks/   
+#  - title: "Conference Activity"
+#    url: /talks/   
     
   - title: "Talk Map"
     url: /talkmap.html 
