@@ -58,7 +58,7 @@ redirect_from:
 
 ## Leadership
 
-* Sept 2022-Dec2023: **Executive Board Member, Team Lead, Recruitment Director**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
+* Sep 2022-Dec 2023: **Executive Board Member, Team Lead, Recruitment Director**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
 * Jan 2022-Dec 2023: **Teaching Assistant**, College of William and Mary Organic Chemistry Lab
 * Dec 2021-Dec 2023: **Founder & President**, Spikeball Club, College of William and Mary
 * Sep 2021-Dec 2023: **Team Lead**, Saha Lab, College of William and Mary
