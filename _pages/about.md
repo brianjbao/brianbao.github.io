@@ -72,7 +72,7 @@ I graduated from the College of William & Mary in December 2023 with a B.S. in N
   <div class="container">
     <div class="column1">
       <h2>Education</h2>
-      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>North Cross School</b><br><i>High School Diploma - 2020</i></p>
+      <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>North Cross School, Salutatorian</b><br><i>High School Diploma - 2020</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>College of William and Mary</b><br><i>B.S. Neuroscience, Statistics Minor - 2023</i></p>
       <p class="grad-info"><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>University of Virginia School of Medicine</b><br><i>Doctor of Medicine - Expected 2028</i></p>
     </div>
