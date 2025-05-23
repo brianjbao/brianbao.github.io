@@ -15,8 +15,8 @@ redirect_from:
 
 ## Education
 
-* Johns Hopkins University, B.A. in Biophysics and Minor in Bioethics, Aug 2018-Dec 2021
-* Vanderbilt University School of Medicine, M.D. and Certificate in Biomedical Ethics, July 2022-May 2026 (expected)
+* College of William and Mary, B.S. in Neuroscience and Minor in Computational & Applied Mathematics and Statistics, Aug 2020-Dec 2023
+* University of Virginia School of Medicine, M.D., Aug 2024-May 2028 (expected)
 
 ## Medical Technology
 
