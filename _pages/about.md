@@ -92,9 +92,9 @@ I graduated from the College of William & Mary in December 2023 with a B.S. in N
 ![University of Virginia School of Medicine Class of 2028 photo in white coats](../images/BrianBao.ClassPhoto.jpg){: style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;"}
 
 <br>
-During the six months before medical school, I continued working at Johns Hopkins Hospital as a research coordinator in the Department of Pediatrics. I led research projects on parents' trust in messengers of COVID-19 information, early determinants of childhood illness, and the role of primary care in advancing health equity and civic engagement. I also worked as a Postbaccalaureate fellow in NIDA’s [Technology and Translational Research Unit](https://bcurtislab.com/), where I helped leverage natural language processing (NLP) and machine learning to identify stigmatizing social media discussions about substance use. 
+Before starting medical school, I spent six months as a [Virginia All-In Tutor](https://www.doe.virginia.gov/teaching-learning-assessment/all-in-tutoring) at Roanoke City Public Schools teaching math and science for 5th-grade students at risk of failing their standardized exams.
 
-Throughout my medical journey, I aspire to continue becoming a better person through each of my patients while spearheading surgical outcomes research, medical technology innovation, and advocacy for equitable healthcare and patients’ rights.
+When I’m not engaged in research or schoolwork, I enjoy cooking, playing spikeball and frisbee golf, and listening to audiobooks.
 
 <html>
 <head>
@@ -127,18 +127,18 @@ Throughout my medical journey, I aspire to continue becoming a better person thr
     <div class="column">
       <!-- First image -->
       <img 
-        src="../images/GilmanFlowers.png" 
-        alt="Tulips in front of Gilman Hall at Johns Hopkins University on a sunny day"
+        src="../images/WM.CrimDellBridge.jpg" 
+        alt="Crim Dell Bridge at the College of William and Mary, reflected in the surrounding wooded pond"
         style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;">
-      <p class="caption">Gilman Hall, Johns Hopkins University</p>
+      <p class="caption">Crim Dell Bridge, College of William and Mary</p>
     </div>
     <div class="column">
       <!-- Second image -->
       <img 
-        src="../images/NashvilleSkyline.png" 
-        alt="Skyline of Nashville Tennessee"
+        src="../images/UVA.Rotunda.jpg" 
+        alt="The Rotunda at the University of Virginia, viewed from the Lawn on an overcast day"
         style="border: 7% solid rgba(138,137,127, 0.15); border-radius: 5%;">
-      <p class="caption">Nashville, TN</p>
+      <p class="caption">The Rotunda, University of Virginia</p>
     </div>
   </div>
 </body>
