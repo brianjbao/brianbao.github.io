@@ -75,24 +75,14 @@ redirect_from:
 * 2019: Rensselaer Medal Scholarship ($160,000 college scholarship - unclaimed)
   * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute
 
-## Skills
-
-* **Computer**: R, Python, MATLAB, Microsoft Excel, SQL, Unix, REDCap, Java, Canva, ImageJ, Pajek, PyMOL
-* **Language**: Conversational French
-* **Wet Lab**: Western Blot, RT-qPCR, cell culture, microfluidic device synthesis, DNA/RNA/protein extraction, bacterial transformation, immunofluorescence, nanodrop spectrophotometry
-
 ## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
-## Conference Activity
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Posters
 
-## Popular Works
-<ul>{% for post in site.popularworks reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+## Abstracts
+
+
+
 
