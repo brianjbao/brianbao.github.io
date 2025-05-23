@@ -15,8 +15,13 @@ redirect_from:
 
 ## Education
 
-* College of William and Mary, B.S. in Neuroscience and Minor in Computational & Applied Mathematics and Statistics, Aug 2020-Dec 2023
-* University of Virginia School of Medicine, M.D., Aug 2024-May 2028 (expected)
+* University of Virginia School of Medicine, M.D.
+  * Aug 2024-May 2028 (expected)
+* College of William and Mary, B.S. in Neuroscience and Minor in Computational & Applied Mathematics and Statistics
+  * Aug 2020-Dec 2023
+  * GPA: 4.0
+* North Cross School, High School Diploma
+
  
 ## Clinical Research
 
