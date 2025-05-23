@@ -52,28 +52,27 @@ redirect_from:
 * Aug 2024-Present: **Pre-Med Mentor**, [Mulholland Pre-Med Mentoring Program](https://med.virginia.edu/mulholland/student-clubs/)
 * Jun 2020-May 2024: **Student Volunteer**, LewisGale Medical Center
 * Sep 2022-May 2024: **Pre-Med Mentor**, W&M Health Careers Club Pre-Medical Mentoring Program
-* Sept 2022-Dec2023: **Executive Board Member, Team Lead, Recruitment Director**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
+* Sept 2022-Dec2023: **Math/Science Tutor**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
 * Nov 2021-May 2022: **Hospice Volunteer**, ProMedica Hospice
 * Jun 2019-Aug 2019: **Student Volunteer**, Mount Sinai Health System
 
 ## Leadership
 
-* July 2024-Present: **Honor Council Representative**, Vanderbilt University School of Medicine Student Government
-* Jan 2020-Dec 2021: **Teaching Assistant**, Johns Hopkins University Organic Chemistry Lab
+* Sept 2022-Dec2023: **Executive Board Member, Team Lead, Recruitment Director**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
+* Jan 2022-Dec 2023: **Teaching Assistant**, College of William and Mary Organic Chemistry Lab
+* Dec 2021-Dec 2023: **Founder & President**, Spikeball Club, College of William and Mary
+* Sep 2021-Dec 2023: **Team Lead**, Saha Lab, College of William and Mary
+
 
 ## Honors, Awards, and Grants
 
-* 2024: Medical Student Research Initiation Grant ($4,000), American Society of Colon and Rectal Surgeons
-* 2024: Honorable Mention, Vanderbilt University Medical Center 42nd Annual Research Forum
-* 2024: National Institute on Drug Abuse Featured Paper of the Month ([April](https://irp.nida.nih.gov/featured-paper-apil-2024/)) 
-* 2022: National Institute on Drug Abuse Featured Paper of the Month ([October](https://irp.drugabuse.gov/featured-paper-october-2022/)) 
-* 2022: PanHellenic Scholarship Foundation Award ($2,500)
-* 2021: Hopkins Office of Undergraduate Research Advance Fund Recipient ($1,000)
-* 2019-21: Three-Time HCA Healthcare Scholar ($6,000 total), [Magazine Feature](https://magazine.hcahealthcare.com/communities/opening-doors-the-hca-healthcare-scholars-program/)
-* 2020: Johns Hopkins University Provost’s Undergraduate Research Award ($3,000), [Magazine Feature](https://magazine.krieger.jhu.edu/2022/05/delving-into-social-networks-and-teen-vaping/)
-* 2019: Johns Hopkins University Sigma Phi Epsilon Most Balanced Man Finalist
-* 2019: Johns Hopkins University Creative Writing Contest Winner
-* 2018: Roanoke Valley Tennis Association Fred Rawlings Memorial Scholar ($500)
+* 2024: Albert & Phyllis Cornell Pre-Medical Award ($2650)
+  * Distinction awarded to the two graduating senior premedical students at William and Mary who show great promise to become outstanding physicians. The recipients are chosen based on a superlative undergraduate academic record and for having shown a significant commitment to serving others.
+* 2020-2023: Dean's List, all semesters, College of William and Mary
+* 2020: William & Mary Monroe Scholar
+  * Distinction awarded to less than 10% of incoming William and Mary freshmen each year
+* 2019: Rensselaer Medal Scholarship ($160,000 college scholarship - unclaimed)
+  * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute
 
 ## Professional and Honor Associations
 
