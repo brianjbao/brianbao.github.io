@@ -85,7 +85,7 @@ author:
   bio              : "Medical Student<br>brianjbao<i class=\"fa-solid fa-at\"></i>gmail.com  "
   location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/daniel.habib.1/bibliography/public/"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/myncbi/daniel.habib.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=P1E3RHMAAAAJ&hl=en"
   email            : 
   researchgate     :  "https://www.researchgate.net/profile/Brian-Bao"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "danielrshabib"
+  linkedin         : "brian-bao"
   orcid            : "https://orcid.org/0009-0003-4061-0540"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "CHANGE LATER"
+  twitter          : #"CHANGE LATER"
   vine             :
   weibo            :
   xing             :
