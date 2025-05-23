@@ -66,13 +66,13 @@ redirect_from:
 
 ## Honors, Awards, and Grants
 
-* 2024: Albert & Phyllis Cornell Pre-Medical Award ($2650)
+* 2024: **Albert & Phyllis Cornell Pre-Medical Award** ($2650)
   * Distinction awarded to the two graduating senior premedical students at William and Mary who show great promise to become outstanding physicians. The recipients are chosen based on a superlative undergraduate academic record and for having shown a significant commitment to serving others.
-* 2023: Invited to join Phi Beta Kappa, Alpha Chapter of Virginia
-* 2020-2023: Dean's List, all semesters, College of William and Mary
-* 2020: William & Mary Monroe Scholar
+* 2023: **Invited to join Phi Beta Kappa**, Alpha Chapter of Virginia
+* 2020-2023: **Dean's List**, all semesters, College of William and Mary
+* 2020: **William & Mary Monroe Scholar**
   * Distinction awarded to less than 10% of incoming William and Mary freshmen each year
-* 2019: Rensselaer Medal Scholarship ($160,000 college scholarship - unclaimed)
+* 2019: **Rensselaer Medal Scholarship** ($160,000 scholarship - unclaimed)
   * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute
 
 ## Publications (will be updated soon)
