@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Roy Sadek Habib"
+title                    : "Brian Jonathan Bao"
 title_separator          : "-"
-name                     : &name "Daniel Roy Sadek Habib"
+name                     : &name "Brian Jonathan Bao"
 description              : &description "personal description"
 url                      : https://danielrshabib.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
