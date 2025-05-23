@@ -64,7 +64,7 @@ redirect_from:
 * Sep 2021-Dec 2023: **Team Lead**, Saha Lab, College of William and Mary
 
 
-## Honors, Awards, and Grants
+## Honors and Awards
 
 * 2024: **Albert & Phyllis Cornell Pre-Medical Award** (*$2650*)
   * Distinction awarded to two graduating senior premedical students who show great promise to become outstanding physicians. The recipients are chosen based on a superlative undergraduate academic record and for having shown a significant commitment to serving others.
