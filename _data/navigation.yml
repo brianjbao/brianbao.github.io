@@ -9,7 +9,10 @@ main:
 #  - title: "Talk Map"
 #    url: /talkmap.html 
 
-  - title: "CV"
+  - title: "About Me"
+    url: /about/
+
+  - title: "Curriculum vitae"
     url: /cv/
     
 
