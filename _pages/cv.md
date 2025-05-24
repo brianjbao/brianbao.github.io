@@ -102,7 +102,7 @@ Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. [Poster](https:/
 Symposium; 2023; Richmond, VA.
 
 
-## Projects In-Progress (unfinished, will be updated soon)
+## Projects Under Review / In Progress (unfinished, will be updated soon)
 
 * Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript in review at *Transplantation*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript in progress.
