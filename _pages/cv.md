@@ -84,14 +84,14 @@ redirect_from:
 * **Bao BJ**, Dunbar E, ..., Hashmi Z. Combined Lung-Liver Transplant: Recipient Risk Factors. J
 Heart Lung Transplant. doi:[10.1016/j.healun.2024.02.1384](https://doi.org/10.1016/j.healun.2024.02.1384)
   
-## Posters
+## Posters (will be updated soon)
 
-* **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. Poster at ISHLT; 2024; Prague, Czech Republic.
+* **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. [Poster](https://brianjbao.github.io/files/POSTER_24_Bao_Hashmi_CLLT.pdf) at ISHLT; 2024; Prague, Czech Republic.
 * **Bao BJ**, Mauro AG, Carter N, Salloum F. NLRP3 inflammasome inhibitor attenuates cisplatin-
-induced macrophage foam cell death in an in vitro model of atherosclerosis. Poster at Pauley Heart
+induced macrophage foam cell death in an in vitro model of atherosclerosis. [Poster](https://brianjbao.github.io/files/POSTER_250222_Bao_Hashmi_CLLT.pdf) at Pauley Heart
 Center Symposium; 2023; Richmond, VA.
 * Singh P, **Bao B**, Mauro AG, Salloum F. Hydrogen Sulfide Attenuates Doxorubicin-induced
-Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. Poster at Pauley Heart Center
+Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. [Poster](https://brianjbao.github.io/files/POSTER_250222_Bao_Hashmi_CLLT.pdf) at Pauley Heart Center
 Symposium; 2023; Richmond, VA.
 
 ## Abstracts (will be updated soon)
