@@ -5,6 +5,22 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
+  <!-- Lines 8-23 added by Bao BJ to fix icon spacing; To revert to original simply delete these lines. -->
+  <style>
+    /* make each link a flex‐container so icon+text are vertically centered */
+    .author__urls.social-icons li a {
+      display: inline-flex;
+      align-items: center;
+  }
+
+    /* give every icon the same width and center it horizontally */
+    .author__urls.social-icons i {
+      display: inline-block;
+      width: 17px;        /* match your other icons’ width */
+      text-align: center; /* center the glyph in that 17px box */
+      margin-right: 6px;  /* keep your gutter */
+  }
+  </style>
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
