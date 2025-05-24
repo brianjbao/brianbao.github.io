@@ -86,8 +86,8 @@ Heart Lung Transplant. doi:[10.1016/j.healun.2024.02.1384](https://doi.org/10.10
   
 ## Posters (unfinished, will be updated soon)
 
-* Kwon YIC, Bao BJ, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic HLTx.pdf) at ISHLT; 2025; Boston, MA.
-* Kwon YIC, Bao BJ, ..., Hashmi ZA. Impact of Functional Warm Ischemia Time on Donation After Circulatory Death Heart Transplant. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_DCD FWIT.pdf) at ISHLT; 2025; Boston, MA.
+* Kwon YIC, Bao BJ, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic_HLTx.pdf) at ISHLT; 2025; Boston, MA.
+* Kwon YIC, Bao BJ, ..., Hashmi ZA. Impact of Functional Warm Ischemia Time on Donation After Circulatory Death Heart Transplant. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_DCD_FWIT.pdf) at ISHLT; 2025; Boston, MA.
 * **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. [Poster](https://brianjbao.github.io/files/POSTER_24_Bao_Hashmi_CLLT.pdf) at ISHLT; 2024; Prague, Czech Republic.
 * **Bao BJ**, Mauro AG, Carter N, Salloum F. NLRP3 inflammasome inhibitor attenuates cisplatin-
 induced macrophage foam cell death in an in vitro model of atherosclerosis. [Poster](https://brianjbao.github.io/files/POSTER_250222_Bao_Hashmi_CLLT.pdf) at Pauley Heart
