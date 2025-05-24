@@ -5,21 +5,24 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-  <!-- Lines 8-23 added by Bao BJ to fix icon spacing; To revert to original simply delete these lines. -->
+  <!-- Lines 8-26 added by Bao BJ to fix icon spacing. This was done as there are discrepancies in icon size. 
+  To fix this, icons are now forced and centered in a 17px width. To revert to original simply delete these lines. -->
   <style>
-    /* make each link a flex‐container so icon+text are vertically centered */
+    /* 1) Make link a flex container, restore theme’s vertical spacing */
     .author__urls.social-icons li a {
       display: inline-flex;
       align-items: center;
-  }
+      padding: 2px 0;        /* 2px top & bottom (theme default), 0 left/right */
+      margin-bottom: 5px;    /* theme default gap between rows */
+    }
 
-    /* give every icon the same width and center it horizontally */
-    .author__urls.social-icons i {
-      display: inline-block;
-      width: 17px;        /* match your other icons’ width */
-      text-align: center; /* center the glyph in that 17px box */
-      margin-right: 6px;  /* keep your gutter */
-  }
+    /* 2) Force every icon into a 17px-wide flex child and center it */
+    .author__urls.social-icons li a i {
+      flex: 0 0 17px;        /* no grow/shrink, exactly 17px wide */
+      display: inline-flex;  
+      justify-content: center; 
+      margin-right: 6px;     /* gutter between icon and text */
+    }
   </style>
 
   <div class="author__avatar">
