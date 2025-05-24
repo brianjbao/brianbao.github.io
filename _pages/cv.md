@@ -89,8 +89,9 @@ redirect_from:
 Heart Lung Transplant*. doi:[10.1016/j.healun.2024.02.1384](https://doi.org/10.1016/j.healun.2024.02.1384)
 
   
-## Posters (unfinished, will be updated soon)
+## Posters 
 
+* *(unfinished, will be updated soon)*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic_HLTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Impact of Functional Warm Ischemia Time on Donation After Circulatory Death Heart Transplant. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_DCD_FWIT.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. [Poster](https://brianjbao.github.io/files/POSTER_24_Bao_Hashmi_CLLT.pdf) at International Society for Heart and Lung Transplantation 44th Annual Meeting; 2024; Prague, Czech Republic.
@@ -102,8 +103,9 @@ Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. [Poster](https:/
 Symposium; 2023; Richmond, VA.
 
 
-## Projects Under Review / In Progress (unfinished, will be updated soon)
+## Projects Under Review / In Progress
 
+* *(unfinished, will be updated soon)*
 * Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript in review at *Transplantation*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript in progress.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Finished case report draft, awaiting attending feedback.
