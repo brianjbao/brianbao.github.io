@@ -73,15 +73,30 @@ redirect_from:
 * 2020: **William & Mary Monroe Scholar**
   * Distinction awarded to less than *10%* of incoming William and Mary freshmen each year
 * 2019: **Rensselaer Medal Scholarship** (*$160,000 scholarship - unclaimed*)
-  * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute
+  * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute.
 
-## Publications (will be updated soon)
- 
+## Publications / Abstracts
+
+* **Bao BJ**, Kwon YIC, ..., Hashmi ZA. National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry. *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
+* Kwon YIC, **Bao BJ**, ..., Hashmi Z. The Impact of Preoperative Amiodarone on Heart Transplant Survival and Graft Dysfunction. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.180](https://doi.org/10.1016/j.healun.2025.02.180)
+* Kwon YIC, **Bao BJ**, ..., Hashmi Z. Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1023](https://doi.org/10.1016/j.healun.2025.02.1023)
+* Kwon YIC, Wright K, Keller M, **Bao BJ**, …, Hashmi Z. An Update on the Utilization and Outcomes of Hypoxemic Donors in Lung Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1115](https://doi.org/10.1016/j.healun.2025.02.1115)
+* **Bao BJ**, Dunbar E, ..., Hashmi Z. Combined Lung-Liver Transplant: Recipient Risk Factors. J
+Heart Lung Transplant. doi:[10.1016/j.healun.2024.02.1384](https://doi.org/10.1016/j.healun.2024.02.1384)
   
-## Posters (will be updated soon)
+## Posters
 
+* **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. Poster at ISHLT; 2024; Prague, Czech Republic.
+* **Bao BJ**, Mauro AG, Carter N, Salloum F. NLRP3 inflammasome inhibitor attenuates cisplatin-
+induced macrophage foam cell death in an in vitro model of atherosclerosis. Poster at Pauley Heart
+Center Symposium; 2023; Richmond, VA.
+* Singh P, **Bao B**, Mauro AG, Salloum F. Hydrogen Sulfide Attenuates Doxorubicin-induced
+Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. Poster at Pauley Heart Center
+Symposium; 2023; Richmond, VA.
 
 ## Abstracts (will be updated soon)
+
+
 
 
 ## Projects In-Progress (will be updated soon)
