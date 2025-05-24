@@ -32,6 +32,7 @@ redirect_from:
   * Department of Otolaryngology-Head and Neck Surgery, University of Virginia School of Medicine
   * Mentor: Ariana Greenwell, MD
 
+
 ## Wet Lab
 
 * May 2023-Aug 2023: **Student Researcher**
@@ -44,6 +45,7 @@ redirect_from:
   * Novozymes Biologicals (now Novonesis)
   * Mentor: Uri Levine, PhD
 
+
 ## Community Service
 
 * May 2025-Present: **Student Mentor**, [UVA Guide to Application Success](https://med.virginia.edu/mulholland/student-clubs/)
@@ -55,6 +57,7 @@ redirect_from:
 * Sep 2022-Dec 2023: **Math/Science Tutor**, [Griffin School Partnerships](https://www.wm.edu/offices/cce/programs/education-programs/griffin-school-partnerships/)
 * Nov 2021-May 2022: **Hospice Volunteer**, ProMedica Hospice
 * Jun 2019-Aug 2019: **Student Volunteer**, Mount Sinai Health System
+
 
 ## Leadership
 
@@ -75,6 +78,7 @@ redirect_from:
 * 2019: **Rensselaer Medal Scholarship** (*$160,000 scholarship - unclaimed*)
   * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute.
 
+
 ## Publications / Published Abstracts
 
 * **Bao BJ**, Kwon YIC, ..., Hashmi ZA. [National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry](https://brianjbao.github.io/files/MANUSCRIPT_250222_Bao_Hashmi_CLLT.pdf). *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
@@ -83,11 +87,10 @@ redirect_from:
 * Kwon YIC, Wright K, Keller M, **Bao BJ**, …, Hashmi Z. An Update on the Utilization and Outcomes of Hypoxemic Donors in Lung Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1115](https://doi.org/10.1016/j.healun.2025.02.1115)
 * **Bao BJ**, Dunbar E, ..., Hashmi Z. Combined Lung-Liver Transplant: Recipient Risk Factors. *J
 Heart Lung Transplant*. doi:[10.1016/j.healun.2024.02.1384](https://doi.org/10.1016/j.healun.2024.02.1384)
+
   
 ## Posters (unfinished, will be updated soon)
 
-*
-*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic_HLTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Impact of Functional Warm Ischemia Time on Donation After Circulatory Death Heart Transplant. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_DCD_FWIT.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. [Poster](https://brianjbao.github.io/files/POSTER_24_Bao_Hashmi_CLLT.pdf) at International Society for Heart and Lung Transplantation 44th Annual Meeting; 2024; Prague, Czech Republic.
@@ -98,10 +101,11 @@ Center Symposium; 2023; Richmond, VA.
 Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. [Poster](https://brianjbao.github.io/files/POSTER_23_Singh_Salloum_H2S.pdf) at Pauley Heart Center
 Symposium; 2023; Richmond, VA.
 
-## Projects In-Progress (will be updated soon)
+
+## Projects In-Progress (unfinished, will be updated soon)
 
 * Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript in review at *Transplantation*
-* KWON YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript in progress.
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript in progress.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Finished case report draft, awaiting attending feedback.
 
 
