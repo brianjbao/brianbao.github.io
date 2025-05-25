@@ -6,11 +6,11 @@ main:
 #  - title: "Conference Activity"
 #    url: /talks/   
 
-#  - title: "Talk Map"
-#    url: /talkmap.html 
-
   - title: "About Me"
     url: /about/
+
+  - title: "Presentation Map"
+    url: /talkmap.html 
 
   - title: "Curriculum vitae"
     url: /cv/
