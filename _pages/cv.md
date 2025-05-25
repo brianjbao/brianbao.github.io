@@ -101,9 +101,14 @@ redirect_from:
 
 ## Projects Under Review / In Progress
 
-* *(unfinished, will be updated soon)*
 * Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript in review at *Transplantation*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript in progress.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Finished case report draft, awaiting attending feedback.
+* Writing and overseeing 5 additional manuscripts that have been previously accepted or are under consideration at ISHLT and STSA conferences. 
+  * Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation
+  * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
+  * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
+  * Adverse Long-Term Survival and Primary Graft Dysfunction in Medicare and Medicaid Patients undergoing Heart Transplantation
+  * The Risk of Chronic Lung Allograft Dysfunction in Patients with Diabetes Mellitus undergoing Lung Transplantation
 
 
