@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Boston, MA, USA | American Public Health Association Annual Meeting | 2022 | Segregation, coronavirus racial bias, and relationships with COVID-19 distress",
-    42.3554334,
-    -71.060511
+    "Richmond, VA, USA | Pauley Heart Center Symposium | 2023 | Hydrogen Sulfide Attenuates Doxorubicin-induced Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice",
+    37.5407,
+    77.4360
   ],
   [
     "Atlanta, GA, USA | American Public Health Association Annual Meeting | 2023 | Novel substance use and support themes on Reddit: Lessons for researchers and practitioners",
