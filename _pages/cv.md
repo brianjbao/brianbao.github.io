@@ -67,6 +67,13 @@ redirect_from:
 * Sep 2021-Dec 2023: **Team Lead**, Saha Lab, College of William and Mary
 
 
+## Paid Work
+
+* Jan 2024-Jun 2024: **Virginia All-in Tutor**, Roanoke City Public Schools
+* May 2023-Aug 2023: **Research Fellow**, Pauley Heart Center
+* May 2022-Aug 2022: **Medical Assistant**, Blue Ridge Pain Management
+
+
 ## Honors and Awards
 
 * 2024: **Albert & Phyllis Cornell Pre-Medical Award** (*$2650*)
