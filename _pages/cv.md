@@ -67,7 +67,7 @@ redirect_from:
 * Sep 2021-Dec 2023: **Team Lead**, Saha Lab, College of William and Mary
 
 
-## Paid Work
+## Employment
 
 * Jan 2024-Jun 2024: **Virginia All-in Tutor**, Roanoke City Public Schools
 * May 2023-Aug 2023: **Research Fellow**, Pauley Heart Center
