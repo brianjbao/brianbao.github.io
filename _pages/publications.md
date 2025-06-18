@@ -1,26 +1,38 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
-## Highlighted Works
-<ul>
-    <li>Collins RS, Lee IA, <b>Habib DRS</b>, Garner DC, Johnson DB, Patel PN, Topf MC. <a href="https://danielrshabib.github.io/publications/collins2025cost">Cost evaluation in head and neck cancer clinical trials: Implications for high-value care</a>. <i>Am J Otolaryngol</i>. 2025;46(5):104655. doi:10.1016/j.amjoto.2025.104655</li>
-    <li><b>Habib DRS</b>, Jamal N, Patel K, Wootten CT, Belcher RH. <a href="https://danielrshabib.github.io/publications/habib2024perioperative">Perioperative outcomes of branchial cleft sinus tract excision in pediatric patients without the use of intraoperative dye</a>. <i>Ann Otol Rhinol Laryng</i>. 2024;134(4):245-248. doi:10.1177/00034894241303021</li>
-    <li><b>Habib DRS</b>*, Shou M*, Phillips RH, Pickens A, Hawkins A, Idrees K, Khan A. <a href="https://danielrshabib.github.io/publications/habib2024association">Association of neoadjuvant immunotherapy with postoperative major morbidity after oncologic surgery</a>. <i> Ann Surg Onc</i>. 2024;31(13):8508-8513. doi:10.1245/s10434-024-16284-8</li>
-    <li>Stevens MN, Prasad K, Sharma RK, Gallant J-N, <b>Habib DRS</b>, Langerman A, Mannion K, Rosenthal E, Topf MC, Rohde SL. 
-    <a href="https://danielrshabib.github.io/publications/stevens2024comparative">Comparative outcomes for microvascular free flap monitoring outside the intensive care unit</a>. <i>Otolaryngol Head Neck Surg</i>. 2024;171(2):381-386. doi:10.1002/ohn.780</li>
-  <li>Prasad K, Sharma R, <b>Habib D</b>, Sinard R, Mannion K, Rohde S, Langerman A, Netterville J, Rosenthal E, Lewis J, Topf MC. 
-    <a href="https://danielrshabib.github.io/publications/prasad2024how">How often is cancer present in oral cavity re-resections after initial positive margins?</a> <i>Laryngoscope</i>. 2024;134(2):717-724. doi:10.1002/lary.30959</li>
-</ul>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Publications / Published Abstracts
 
-{% include base_path %}
+* **Bao BJ**, Kwon YIC, ..., Hashmi ZA. [National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry](https://brianjbao.github.io/files/MANUSCRIPT_250222_Bao_Hashmi_CLLT.pdf). *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
+* Kwon YIC, **Bao BJ**, ..., Hashmi Z. The Impact of Preoperative Amiodarone on Heart Transplant Survival and Graft Dysfunction. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.180](https://doi.org/10.1016/j.healun.2025.02.180)
+* Kwon YIC, **Bao BJ**, ..., Hashmi Z. Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1023](https://doi.org/10.1016/j.healun.2025.02.1023)
+* Kwon YIC, Wright K, Keller M, **Bao BJ**, …, Hashmi Z. An Update on the Utilization and Outcomes of Hypoxemic Donors in Lung Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1115](https://doi.org/10.1016/j.healun.2025.02.1115)
+* **Bao BJ**, Dunbar E, ..., Hashmi Z. Combined Lung-Liver Transplant: Recipient Risk Factors. *J Heart Lung Transplant*. doi:[10.1016/j.healun.2024.02.1384](https://doi.org/10.1016/j.healun.2024.02.1384)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  
+## Posters / Presentations
+
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Optimization of Preoperative Amiodarone Therapy for Survival and Primary Graft Dysfunction in Patients undergoing Heart Transplantation. [Oral Presentation](https://brianjbao.github.io/files/PRESENTATION_25_Kwon_Hashmi_Amio_HTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization, Experience, and Outcomes of COVID-19 Positive Donors for Heart Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_COVID_HTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic_HLTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Impact of Functional Warm Ischemia Time on Donation After Circulatory Death Heart Transplant. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_DCD_FWIT.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
+* **Bao BJ**, Dunbar EG, Rollins Z, Patel J, Ambrosio M, Bruno DA, Julliard W, Kasirajan V, Hashmi ZA. Combined Lung-Liver Transplant: Recipient Risk Factors. [Poster](https://brianjbao.github.io/files/POSTER_24_Bao_Hashmi_CLLT.pdf) at International Society for Heart and Lung Transplantation 44th Annual Meeting; 2024; Prague, Czech Republic.
+* **Bao BJ**, Mauro AG, Carter N, Salloum F. NLRP3 inflammasome inhibitor attenuates cisplatin-induced macrophage foam cell death in an in vitro model of atherosclerosis. [Poster](https://brianjbao.github.io/files/POSTER_23_Bao_Salloum_NLRP3.pdf) at Pauley Heart Center Symposium; 2023; Richmond, VA.
+* Singh P, **Bao B**, Mauro AG, Salloum F. Hydrogen Sulfide Attenuates Doxorubicin-induced Exacerbation of Myocardial Ischemia-Reperfusion Injury in Mice. [Poster](https://brianjbao.github.io/files/POSTER_23_Singh_Salloum_H2S.pdf) at Pauley Heart Center Symposium; 2023; Richmond, VA.
+
+
+## Projects Under Review / In Progress
+
+* Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript in review at *Journal of Heart and Lung Transplantation*
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation. Manuscript draft complete, awaiting co-author and attending feedback.
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript in progress.
+* **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
+* Writing and overseeing 4 additional manuscripts that have been previously accepted or are under consideration as posters or presentations at ISHLT and STSA conferences. 
+  * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
+  * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
+  * Adverse Long-Term Survival and Primary Graft Dysfunction in Medicare and Medicaid Patients undergoing Heart Transplantation
+  * The Risk of Chronic Lung Allograft Dysfunction in Patients with Diabetes Mellitus undergoing Lung Transplantation
