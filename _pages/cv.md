@@ -86,6 +86,10 @@ redirect_from:
   * Awarded to students who have distinguished themselves in mathematics and science, this scholarship is granted for each Medalist who enrolls at Rensselaer Polytechnic Institute.
 
 
-{% include_relative publications.md %}
+{% assign pubs_page = site.pages
+                      | where: "path", "_pages/publications.md"
+                      | first %}
+
+{{ pubs_page.content }}
 
 
