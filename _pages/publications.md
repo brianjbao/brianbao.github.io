@@ -28,9 +28,10 @@ author_profile: true
 ## Projects Under Review / In Progress
 
 * Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript in review at *Journal of Heart and Lung Transplantation*
-* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation. Manuscript draft complete, awaiting co-author and attending feedback.
+* Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Heart transplantation using COVID-19–positive donors is not associated with increased mortality at 3 years: A propensity-matched national cohort study. Manuscript draft complete, awaiting attending feedback.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript draft complete, awaiting co-author and attending feedback.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
+* Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Manuscript in progress.
 * Writing and overseeing 4 additional manuscripts that have been previously accepted or are under consideration as posters or presentations at ISHLT and STSA conferences. 
   * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
   * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
