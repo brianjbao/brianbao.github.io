@@ -27,10 +27,14 @@ redirect_from:
 
 * Sep 2023-Present: **Student Researcher**
   * Division of Cardiothoracic Surgery, Virginia Commonwealth University School of Medicine
-  * Mentor: Zubair Hashmi, MD
-* March 2025: **Student Researcher**
+  * Mentor: Zubair A. Hashmi, MD
+* March 2025-Present: **Student Researcher**
   * Department of Otolaryngology-Head and Neck Surgery, University of Virginia School of Medicine
-  * Mentor: Ariana Greenwell, MD
+  * Division of Pediatric Gastroenterology, University of Virginia School of Medicine
+  * Mentors: Ariana G. Greenwell, MD ; Jeremy P. Middleton, MD
+* July 2025-Present: **Student Researcher**
+  * Department of Orthopaedic Surgery, Virginia Tech Carilion School of Medicine
+  * Mentor: Jonathan J. Carmouche, MD
 
 
 ## Wet Lab
